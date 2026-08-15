@@ -15,3 +15,4 @@
 | 9 | [single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2105532378/) | C++ | [single-element-in-a-sorted-array.cpp](./single-element-in-a-sorted-array.cpp) |
 | 10 | [find-peak-element](https://leetcode.com/problems/find-peak-element/submissions/2105560573/) | C++ | [find-peak-element.cpp](./find-peak-element.cpp) |
 | 11 | [single-number](https://leetcode.com/problems/single-number/submissions/2106649787/?envType=problem-list-v2&envId=array) | C++ | [single-number.cpp](./single-number.cpp) |
+| 12 | [koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/) | C++ | [koko-eating-bananas.cpp](./koko-eating-bananas.cpp) |
