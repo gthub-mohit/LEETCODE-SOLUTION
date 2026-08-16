@@ -17,3 +17,4 @@
 | 11 | [single-number](https://leetcode.com/problems/single-number/submissions/2106649787/?envType=problem-list-v2&envId=array) | C++ | [single-number.cpp](./single-number.cpp) |
 | 12 | [koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/) | C++ | [koko-eating-bananas.cpp](./koko-eating-bananas.cpp) |
 | 13 | [minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2107408031/) | C++ | [minimum-number-of-days-to-make-m-bouquets.cpp](./minimum-number-of-days-to-make-m-bouquets.cpp) |
+| 14 | [two-sum](https://leetcode.com/problems/two-sum/submissions/2109228829/) | C++ | [two-sum.cpp](./two-sum.cpp) |
