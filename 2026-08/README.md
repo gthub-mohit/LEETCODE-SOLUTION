@@ -19,3 +19,4 @@
 | 13 | [minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2107408031/) | C++ | [minimum-number-of-days-to-make-m-bouquets.cpp](./minimum-number-of-days-to-make-m-bouquets.cpp) |
 | 14 | [two-sum](https://leetcode.com/problems/two-sum/submissions/2109228829/) | C++ | [two-sum.cpp](./two-sum.cpp) |
 | 15 | [find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/2110176675/) | C++ | [find-the-smallest-divisor-given-a-threshold.cpp](./find-the-smallest-divisor-given-a-threshold.cpp) |
+| 16 | [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2110197410/) | C++ | [capacity-to-ship-packages-within-d-days.cpp](./capacity-to-ship-packages-within-d-days.cpp) |
