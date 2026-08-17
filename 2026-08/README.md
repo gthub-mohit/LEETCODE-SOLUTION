@@ -20,3 +20,4 @@
 | 14 | [two-sum](https://leetcode.com/problems/two-sum/submissions/2109228829/) | C++ | [two-sum.cpp](./two-sum.cpp) |
 | 15 | [find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/2110176675/) | C++ | [find-the-smallest-divisor-given-a-threshold.cpp](./find-the-smallest-divisor-given-a-threshold.cpp) |
 | 16 | [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2110197410/) | C++ | [capacity-to-ship-packages-within-d-days.cpp](./capacity-to-ship-packages-within-d-days.cpp) |
+| 17 | [kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number/submissions/2110215359/) | C++ | [kth-missing-positive-number.cpp](./kth-missing-positive-number.cpp) |
