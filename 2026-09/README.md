@@ -8,3 +8,4 @@
 | 2 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/submissions/2138300860/) | C++ | [container-with-most-water.cpp](./container-with-most-water.cpp) |
 | 3 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/submissions/2138301743/) | C++ | [container-with-most-water.cpp](./container-with-most-water.cpp) |
 | 4 | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2138578936/) | C++ | [search-a-2d-matrix.cpp](./search-a-2d-matrix.cpp) |
+| 5 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/2139201709/) | C++ | [longest-common-prefix.cpp](./longest-common-prefix.cpp) |
