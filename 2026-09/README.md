@@ -12,3 +12,4 @@
 | 6 | [3sum-closest](https://leetcode.com/problems/3sum-closest/submissions/2139209239/) | C++ | [3sum-closest.cpp](./3sum-closest.cpp) |
 | 7 | [3sum-closest](https://leetcode.com/problems/3sum-closest/submissions/2139209623/) | C++ | [3sum-closest.cpp](./3sum-closest.cpp) |
 | 8 | [search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/2139245567/) | C++ | [search-a-2d-matrix-ii.cpp](./search-a-2d-matrix-ii.cpp) |
+| 9 | [search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/) | C++ | [search-a-2d-matrix-ii.cpp](./search-a-2d-matrix-ii.cpp) |
