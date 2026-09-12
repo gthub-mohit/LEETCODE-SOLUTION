@@ -4,7 +4,7 @@
  ║  Platform : LeetCode                                                    ║
  ║  Status   : Accepted                                                    ║
  ║  Date     : September 12, 2026                                          ║
- ║  URL      : https://leetcode.com/problems/3sum-closest/submissions/2139209239/║
+ ║  URL      : https://leetcode.com/problems/3sum-closest/submissions/2139209623/║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
@@ -21,6 +21,7 @@ public:
             int sum=nums[k]+nums[left]+nums[right];
             if(abs(sum-target)<abs(target-closest))closest=sum;
             if(sum>target)right--;
+            else if(sum==target)return sum;
             else left++;
             }
         }
