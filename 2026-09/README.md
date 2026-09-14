@@ -14,3 +14,4 @@
 | 8 | [search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/2139245567/) | C++ | [search-a-2d-matrix-ii.cpp](./search-a-2d-matrix-ii.cpp) |
 | 9 | [search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/) | C++ | [search-a-2d-matrix-ii.cpp](./search-a-2d-matrix-ii.cpp) |
 | 10 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2140568057/) | C++ | [valid-parentheses.cpp](./valid-parentheses.cpp) |
+| 11 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2141811319/) | C++ | [remove-duplicates-from-sorted-array.cpp](./remove-duplicates-from-sorted-array.cpp) |
