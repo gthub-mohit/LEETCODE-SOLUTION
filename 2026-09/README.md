@@ -16,3 +16,4 @@
 | 10 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2140568057/) | C++ | [valid-parentheses.cpp](./valid-parentheses.cpp) |
 | 11 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2141811319/) | C++ | [remove-duplicates-from-sorted-array.cpp](./remove-duplicates-from-sorted-array.cpp) |
 | 12 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2142843114/) | C++ | [find-the-index-of-the-first-occurrence-in-a-string.cpp](./find-the-index-of-the-first-occurrence-in-a-string.cpp) |
+| 13 | [count-and-say](https://leetcode.com/problems/count-and-say/) | C++ | [count-and-say.cpp](./count-and-say.cpp) |
