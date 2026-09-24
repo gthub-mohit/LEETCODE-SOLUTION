@@ -18,3 +18,4 @@
 | 12 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2142843114/) | C++ | [find-the-index-of-the-first-occurrence-in-a-string.cpp](./find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 | 13 | [count-and-say](https://leetcode.com/problems/count-and-say/) | C++ | [count-and-say.cpp](./count-and-say.cpp) |
 | 14 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/submissions/2152049329/) | C++ | [maximum-subarray.cpp](./maximum-subarray.cpp) |
+| 15 | [3sum](https://leetcode.com/problems/3sum/submissions/2152074879/) | C++ | [3sum.cpp](./3sum.cpp) |
