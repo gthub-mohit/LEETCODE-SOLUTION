@@ -10,3 +10,4 @@
 | 4 | [find-a-peak-element-ii](https://leetcode.com/problems/find-a-peak-element-ii/submissions/2175284276/) | C++ | [find-a-peak-element-ii.cpp](./find-a-peak-element-ii.cpp) |
 | 5 | [find-a-peak-element-ii](https://leetcode.com/problems/find-a-peak-element-ii/submissions/2175284276/) | C++ | [find-a-peak-element-ii.cpp](./find-a-peak-element-ii.cpp) |
 | 6 | [find-a-peak-element-ii](https://leetcode.com/problems/find-a-peak-element-ii/submissions/2175318759/) | C++ | [find-a-peak-element-ii.cpp](./find-a-peak-element-ii.cpp) |
+| 7 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2175373739/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
