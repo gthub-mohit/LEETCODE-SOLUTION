@@ -13,3 +13,4 @@
 | 7 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2175373739/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
 | 8 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2175373957/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
 | 9 | [maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/2176094884/) | C++ | [maximum-nesting-depth-of-the-parentheses.cpp](./maximum-nesting-depth-of-the-parentheses.cpp) |
+| 10 | [remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses/submissions/2176108033/) | C++ | [remove-outermost-parentheses.cpp](./remove-outermost-parentheses.cpp) |
