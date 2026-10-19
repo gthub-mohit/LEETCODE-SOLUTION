@@ -12,3 +12,4 @@
 | 6 | [find-a-peak-element-ii](https://leetcode.com/problems/find-a-peak-element-ii/submissions/2175318759/) | C++ | [find-a-peak-element-ii.cpp](./find-a-peak-element-ii.cpp) |
 | 7 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2175373739/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
 | 8 | [plus-one](https://leetcode.com/problems/plus-one/submissions/2175373957/?envType=problem-list-v2&envId=array) | C++ | [plus-one.cpp](./plus-one.cpp) |
+| 9 | [maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/2176094884/) | C++ | [maximum-nesting-depth-of-the-parentheses.cpp](./maximum-nesting-depth-of-the-parentheses.cpp) |
