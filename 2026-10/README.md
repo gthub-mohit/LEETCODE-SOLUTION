@@ -15,3 +15,4 @@
 | 9 | [maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/2176094884/) | C++ | [maximum-nesting-depth-of-the-parentheses.cpp](./maximum-nesting-depth-of-the-parentheses.cpp) |
 | 10 | [remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses/submissions/2176108033/) | C++ | [remove-outermost-parentheses.cpp](./remove-outermost-parentheses.cpp) |
 | 11 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2176124145/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
+| 12 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2177304784/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
