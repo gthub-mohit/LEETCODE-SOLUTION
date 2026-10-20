@@ -3,8 +3,8 @@
  ║  Problem  : roman-to-integer                                            ║
  ║  Platform : LeetCode                                                    ║
  ║  Status   : Accepted                                                    ║
- ║  Date     : October 19, 2026                                            ║
- ║  URL      : https://leetcode.com/problems/roman-to-integer/submissions/2176124145/║
+ ║  Date     : October 20, 2026                                            ║
+ ║  URL      : https://leetcode.com/problems/roman-to-integer/submissions/2177304784/║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
