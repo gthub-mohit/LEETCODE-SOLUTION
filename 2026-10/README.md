@@ -16,3 +16,4 @@
 | 10 | [remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses/submissions/2176108033/) | C++ | [remove-outermost-parentheses.cpp](./remove-outermost-parentheses.cpp) |
 | 11 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2176124145/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
 | 12 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2177304784/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
+| 13 | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/2177838428/) | C++ | [string-to-integer-atoi.cpp](./string-to-integer-atoi.cpp) |
