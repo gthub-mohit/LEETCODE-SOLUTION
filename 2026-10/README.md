@@ -17,3 +17,4 @@
 | 11 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2176124145/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
 | 12 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2177304784/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
 | 13 | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/2177838428/) | C++ | [string-to-integer-atoi.cpp](./string-to-integer-atoi.cpp) |
+| 14 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2177840934/) | C++ | [longest-palindromic-substring.cpp](./longest-palindromic-substring.cpp) |
