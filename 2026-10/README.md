@@ -18,3 +18,4 @@
 | 12 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/2177304784/) | C++ | [roman-to-integer.cpp](./roman-to-integer.cpp) |
 | 13 | [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/2177838428/) | C++ | [string-to-integer-atoi.cpp](./string-to-integer-atoi.cpp) |
 | 14 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2177840934/) | C++ | [longest-palindromic-substring.cpp](./longest-palindromic-substring.cpp) |
+| 15 | [sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/submissions/2178780870/) | C++ | [sum-of-beauty-of-all-substrings.cpp](./sum-of-beauty-of-all-substrings.cpp) |
