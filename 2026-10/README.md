@@ -20,3 +20,4 @@
 | 14 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/2177840934/) | C++ | [longest-palindromic-substring.cpp](./longest-palindromic-substring.cpp) |
 | 15 | [sum-of-beauty-of-all-substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/submissions/2178780870/) | C++ | [sum-of-beauty-of-all-substrings.cpp](./sum-of-beauty-of-all-substrings.cpp) |
 | 16 | [powx-n](https://leetcode.com/problems/powx-n/submissions/2178804015/) | C++ | [powx-n.cpp](./powx-n.cpp) |
+| 17 | [generate-parentheses](https://leetcode.com/problems/generate-parentheses/submissions/2179591148/) | C++ | [generate-parentheses.cpp](./generate-parentheses.cpp) |
