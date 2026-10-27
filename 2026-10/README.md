@@ -26,3 +26,4 @@
 | 20 | [add-binary](https://leetcode.com/problems/add-binary/submissions/2181642737/) | C++ | [add-binary.cpp](./add-binary.cpp) |
 | 21 | [add-two-integers](https://leetcode.com/problems/add-two-integers/submissions/2182308229/) | C++ | [add-two-integers.cpp](./add-two-integers.cpp) |
 | 22 | [fizz-buzz](https://leetcode.com/problems/fizz-buzz/submissions/2182313363/) | C++ | [fizz-buzz.cpp](./fizz-buzz.cpp) |
+| 23 | [combinations](https://leetcode.com/problems/combinations/submissions/2183139193/) | C++ | [combinations.cpp](./combinations.cpp) |
