@@ -27,3 +27,4 @@
 | 21 | [add-two-integers](https://leetcode.com/problems/add-two-integers/submissions/2182308229/) | C++ | [add-two-integers.cpp](./add-two-integers.cpp) |
 | 22 | [fizz-buzz](https://leetcode.com/problems/fizz-buzz/submissions/2182313363/) | C++ | [fizz-buzz.cpp](./fizz-buzz.cpp) |
 | 23 | [combinations](https://leetcode.com/problems/combinations/submissions/2183139193/) | C++ | [combinations.cpp](./combinations.cpp) |
+| 24 | [first-missing-positive](https://leetcode.com/problems/first-missing-positive/submissions/2184939718/) | C++ | [first-missing-positive.cpp](./first-missing-positive.cpp) |
