@@ -13,3 +13,4 @@
 | 7 | [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=problem-list-v2&envId=array) | C++ | [best-time-to-buy-and-sell-stock-ii.cpp](./best-time-to-buy-and-sell-stock-ii.cpp) |
 | 8 | [longest-strictly-increasing-or-strictly-decreasing-subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/2194518489/?envType=daily-question&envId=2026-11-12) | C++ | [longest-strictly-increasing-or-strictly-decreasing-subarray.cpp](./longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
 | 9 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) | C++ | [merge-sorted-array.cpp](./merge-sorted-array.cpp) |
+| 10 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/2194668193/) | C++ | [merge-sorted-array.cpp](./merge-sorted-array.cpp) |
