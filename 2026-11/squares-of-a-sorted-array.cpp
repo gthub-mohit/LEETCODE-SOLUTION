@@ -4,17 +4,28 @@
  ║  Platform : LeetCode                                                    ║
  ║  Status   : Accepted                                                    ║
  ║  Date     : November 13, 2026                                           ║
- ║  URL      : https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2195252608/║
+ ║  URL      : https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2195259665/║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        for(int k=0;k<nums.size();k++){
-            nums[k]*=nums[k];
+        int n=nums.size();
+        int j=n-1;
+        int i=0;
+        int k=n-1;
+        vector<int> ans(n);
+        while(j>=i){
+            if(abs(nums[i])>abs(nums[j])){
+                ans[k]=nums[i]*nums[i];
+                i++;
+            }
+            else {
+                ans[k]=nums[j]*nums[j];
+                j--;
+            }k--;
         }
-        sort(nums.begin() , nums.end());
-        return nums;
+        return ans;
     }
 };
