@@ -17,3 +17,4 @@
 | 11 | [move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/2195056608/) | C++ | [move-zeroes.cpp](./move-zeroes.cpp) |
 | 12 | [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2195252608/) | C++ | [squares-of-a-sorted-array.cpp](./squares-of-a-sorted-array.cpp) |
 | 13 | [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2195259665/) | C++ | [squares-of-a-sorted-array.cpp](./squares-of-a-sorted-array.cpp) |
+| 14 | [minimum-positive-sum-subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/submissions/2195984790/?envType=daily-question&envId=2026-11-14) | C++ | [minimum-positive-sum-subarray.cpp](./minimum-positive-sum-subarray.cpp) |
